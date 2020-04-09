@@ -1,0 +1,23 @@
+commit 85351dc2d18d20565d7f29b6f8c3353ff3daf6fe
+Author: ´leo-2906´ <flci451@gmail.com>
+Date:   Wed Apr 8 18:30:26 2020 -0500
+
+    added gif files
+
+commit 5d8dc738faf0aeb7a762447fb5775be8b56a3225
+Author: ´leo-2906´ <flci451@gmail.com>
+Date:   Wed Apr 8 17:19:22 2020 -0500
+
+    added gitignore
+
+commit 7684da4e5511226a75e5e16e0891da9b5ecf637c
+Author: myUserName <flci451@gmail.com>
+Date:   Wed Apr 8 12:35:27 2020 -0500
+
+    added two files
+
+commit 2207267986df09e1c31d8c1655efd98321ff27cf
+Author: myUserName <flci451@gmail.com>
+Date:   Wed Apr 8 12:19:48 2020 -0500
+
+    Added readme.txt
